@@ -1,2 +1,3 @@
 A
 wa! new file!
+B
